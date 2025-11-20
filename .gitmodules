@@ -1,0 +1,6 @@
+[submodule "repositories/neotys-logstash"]
+	path = repositories/neotys-logstash
+	url = https://github.com/Tricentis-NeoLoad/neotys-logstash.git
+[submodule "repositories/usage-tracking-platform"]
+	path = repositories/usage-tracking-platform
+	url = https://github.com/Tricentis-NeoLoad/usage-tracking-platform.git
