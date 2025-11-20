@@ -4,3 +4,6 @@
 [submodule "repositories/usage-tracking-platform"]
 	path = repositories/usage-tracking-platform
 	url = https://github.com/Tricentis-NeoLoad/usage-tracking-platform.git
+[submodule "repositories/jenkins-groovy-lib"]
+	path = repositories/jenkins-groovy-lib
+	url = https://github.com/Tricentis-NeoLoad/jenkins-groovy-lib.git
